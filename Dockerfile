@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
+FROM gcr.io/google_containers/exechealthz:1.0
 MAINTAINER 48715564 <48715564@qq.com>
